@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s25/jpa02-johnhagedorncs.git
 
-Deployed at: https://jpa02-johnhagedorncs.dokku-xx.cs.ucsb.edu
+Deployed at: https://jpa02-johnhagedorncs.dokku-16.cs.ucsb.edu
 
 
 # About this repo
