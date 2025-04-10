@@ -1,6 +1,6 @@
 # jpa02-johnhagedorncs
 
-Repo: [https://ucsb-cs156-s25/jpa02-johnhagedorncs](https://github.com/ucsb-cs156-s25/jpa02-johnhagedorncs.git)
+Repo: https://github.com/ucsb-cs156-s25/jpa02-johnhagedorncs.git
 
 Deployed at: https://jpa02-johnhagedorncs.dokku-xx.cs.ucsb.edu
 
